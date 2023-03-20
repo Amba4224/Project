@@ -1,0 +1,41 @@
+body{
+    background-color: #000000;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #7bff00;
+    line-height: 1.3;
+}
+    
+p {
+       
+    font-size: 16px;
+    line-height: 1.9;
+    font-weight: 400;
+    }
+
+video{
+    width: 100%;
+    margin-bottom: 20px;
+}
+audio{
+    width: 500px;
+    margin-bottom: 20px;
+}
+img {
+    width: 500px;
+
+}
+
+.single_video{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-color: #7bff00;
+}
+.d-block{
+    padding: 40px;
+}
